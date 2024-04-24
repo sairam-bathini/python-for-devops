@@ -1,0 +1,1 @@
+Outline the frontend and backend code for a weather forecasting web application using Python. For the backend, we'll use Flask, a lightweight web framework, and for the frontend, we'll use HTML and Jinja2 templating engine for rendering dynamic content. We'll integrate the OpenWeatherMap API to fetch weather data.
